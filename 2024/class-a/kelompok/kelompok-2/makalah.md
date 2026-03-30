@@ -22,7 +22,11 @@ sasjahsjahdjs
 ## BAB 2 Pembahasan
 **1. Posisi Teknologi Sebagai Mitos**
 
-Materi tya
+Pada masa kehidupan modern, teknologi telah menguasai cara berpikir manusia. Kini, perkembangan teknologi sangat berkembang pesat sehingga menjadikan kehidupan manusia bergantung dengan adanya teknologi, seperti adanya robot dan komputer yang dapat menggantikan pekerjaan manusia. Hingga saat ini, manusia sudah tidak lagi menganggap teknologi hanya sebagai alat, melainkan sebagai sesuatu bagian dari makna hidup. Melalui perkembangan teknologi digital, algoritma, serta kepercayaan buatan yang membuat manusia modern semakin mempercayai teknologi dalam berbagai aspek kehidupan. Manusia meyakini bahwa teknologi dapat membawa keselamatan baru bagi manusia, yang di mana hal itu telah menggantikan posisi agama dan kepercayaan tradisional.
+
+Dalam hal ini, teknologi dapat diposisikan sebagai “mitos”. Manusia pada zaman dulu mempercayai adanya mitos, yang di mana mitos adalah suatu kepercayaan yang selalu dianggap benar-benar terjadi dengan melibatkan dewa atau makhluk supranatural padahal hal itu belum tentu benar adanya. Menurut Harari pada buku Homo Deus, manusia modern menganggap teknologi adalah sebuah kepercayaan baru atau agama baru, Harari menyebutnya sebagai ‘dataisme’ yang mampu menentukan kebenaran maupun kesalahan.
+
+Pada buku Homo Deus halaman 438, Harari menjelaskan bahwa nilai yang paling tinggi dalam dataisme adalah “aliran informasi” yang di mana segalanya dinilai berdasarkan kemampuannya dalam memproses dan menyebarkan data. Manusia dalam hal ini hanya semata-mata alat untuk menciptakan “internet segala hal” yang dapat berkembang hingga menyerupai Tuhan, ia akan ada di mana-mana dan akan mengendalikan segalanya, sehingga manusia pasti akan menyatu ke dalamnya.
 
 **2. Teknologi dalam Sudut Pandang Hiperrealitas**
 
