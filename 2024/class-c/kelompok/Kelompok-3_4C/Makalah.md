@@ -22,7 +22,7 @@
 ---
 
 
-<p align="center"><b>KATA PENGATAR</b></p>
+<p align="center"><b>KATA PENGANTAR</b></p>
 <p align="justify">
 
 <br>
@@ -32,3 +32,33 @@ Alhamdulillah kami haturkan puja dan puji syukur ke hadirat Allah SWT. atas karu
 Kami mengucapkan syukur kepada Allah SWT. atas limpahan nikmat sehat-Nya, baik itu berupa sehat fisik maupun akal pikiran, sehingga kami mampu menyelesaikan penyusunan makalah ini  dengan judul "Evolusi Hubungan Negara, Swasta, dan Teknologi (1960-Sekarang): Peran Hacking Culture serta Open dan Closed Source."
 Makalah ini disusun untuk untuk memenuhi penilaian tugas dari mata kuliah Perpustakaan dan Kearsipan Digital.
 Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbagai pihak sehingga dapat memperlancar pembuatan makalah ini. Untuk itu kami menyampaikan banyak terima kasih kepada Bapak Al-Muhdil Karim, S.IP., M.Hum. selaku dosen Perpustakaan dan Kearsipan Digital dan semua pihak yang telah berkontribusi dalam penyusunan makalah ini. Dalam penyusunan makalah ini, kami menyadari bahwa makalah ini masih jauh dari kata sempurna. Sehingga kami selaku penyusun sangat mengharapkan kritik dan saran yang membangun dari pembaca sekalian. Akhir kata semoga makalah ini dapat memberikan manfaat untuk kelompok kami khususnya, dan para pembaca.
+
+
+
+
+**<p align="center">BAB I</p>**
+**<p align="center">PENDAHULUAN</p>**
+
+1.1 Latar Belakang
+
+
+1.2 Rumusan Masalah
+1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang?
+2. Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang?
+3. Bagaimana implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern?
+4. Jelaskan sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970-an sampai sekarang!
+5. Jelaskan sikap anda terhadap kode sumber terbuka dan kode sumber tertutup!
+6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi!
+
+1.3 Tujuan Penulisan
+1. Untuk mengetahui pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
+2. Untuk mengetahui pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
+3. Untuk memahami implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern.
+4. Untuk memahami sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970-an sampai sekarang.
+5. Untuk mengetahui sikap terhadap kode sumber terbuka dan kode sumber tertutup.
+6. Untuk memahami hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
+
+
+**<p align="center">BAB II</p>**
+**<p align="center">PEMBAHASAN</P>**
+   
