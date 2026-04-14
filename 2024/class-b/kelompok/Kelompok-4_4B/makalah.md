@@ -64,23 +64,39 @@ Kami menyadari bahwa makalah ini masih jauh dari kata sempurna dan terdapat keku
 
 # **BAB II** **PEMBAHASAN**
 
-**2.1**
+## 2.1 ##
 
-**2.2**
+## 2.2 ##
 
-**2.3 Prinsip Dasar Keamanan Cyber bagi Perpustakaan Digital dan Lembaga Arsip Digital**
+## 2.3 Prinsip Dasar Keamanan Cyber bagi Perpustakaan Digital dan Lembaga Arsip Digital ##
 
 Keamanan cyber adalah upaya yang dilakukan untuk melindungi sistem komputer, jaringan, dan data dari berbagai ancaman di dunia digital. Ancaman tersebut bisa berupa peretasan, kebocoran data, atau kerusakan yang dapat mengganggu sistem. Seiring dengan kemajuan dunia digital, ancaman cyber semakin berkembang dan menjadi lebih rumit. Ancaman ini dapat berdampak besar tidak hanya bagi individu dan organisasi, tetapi juga bagi lembaga pemerintahan yang memiliki peran penting dalam pengelolaan informasi, khususnya perpustakaan digital dan lembaga arsip digital. Oleh karena itu, perpustakaan digital dan lembaga arsip digital perlu memahami dan menerapkan prinsip dasar keamanan cyber, karena hal tersebut sangat penting untuk menjaga dan melindungi sistem serta data yang dikelola agar tetap aman. 
 
 Keamanan cyber memiliki prinsip dasar keamanan yang dapat diterapkan oleh perpustakaan digital dan lembaga arsip digital. Prinsip tersebut mencakup kerahasiaan (confidentiality), integritas (integrity), dan ketersediaan (availability). Kerahasiaan (Confidentiality) prinsip ini menekankan pentingnya menjaga data koleksi dan informasi pengguna agar tidak dapat disebarluaskan oleh pihak yang tidak bertanggung jawab. Integritas (integrity) yaitu prinsip yang menjamin bahwa informasi tetap utuh, akurat, dan tidak mengalami perubahan secara tidak sah. Prinsip ini sangat penting untuk memastikan bahwa koleksi digital dan arsip yang disimpan asli dan tidak mengalami perubahan tanpa izin. Ketersediaan (availability) mengacu pada pentingnya memastikan bahwa informasi dapat diakses dengan cepat tanpa kendala sistem atau teknis. Dalam konteks perpustakaan digital dan lembaga arsip digital, prinsip ini berarti memastikan koleksi digital dan arsip dapat diakses oleh pengguna kapan saja dengan sistem yang stabil.
 
-**2.4**
+## 2.4 ##
 
-**2.5**
+## 2.5 ##
 
-**2.6 Faktor yang Harus Dikembangkan dan Ditingkatkan dalam Perpustakaan dan Arsip Digital**
+## 2.6 Faktor yang Harus Dikembangkan dan Ditingkatkan dalam Perpustakaan dan Arsip Digital ##
 
 Perkembangan perpustakaan dan arsip digital tidak terlepas dari kebutuhan akan akses informasi yang cepat, akurat, dan dapat diandalkan. Oleh karena itu, terdapat beberapa faktor penting yang harus dikembangkan dan ditingkatkan agar pengelolaan perpustakaan dan arsip digital dapat berjalan dengan baik dan efisien. Dalam konteks perpustakaan, faktor yang perlu dikembangkan adalah koleksi digital secara berkelanjutan agar tetap sesuai dengan kebutuhan pengguna. Perpustakaan juga perlu meningkatkan kemudahan akses terhadap koleksi digital agar pengguna dapat memperoleh informasi dengan cepat dan di mana saja. Selain itu, perpustakaan juga perlu meningkatkan layanan yang berkualitas kepada pengguna, meningkatkan kompetensi pustakawan dengan memberikan pelatihan berkelanjutan, khususnya dalam bidang teknologi informasi dan manajemen koleksi digital, serta meningkatkan keamanan informasi digital.  Sedangkan dalam konteks lembaga arsip digital, hal yang perlu dikembangkan dan ditingkatkan adalah sumber daya manusia menjadi faktor utama yang harus ditingkatkan, di mana kompetensi pengelola arsip masih perlu ditingkatkan melalui pelatihan  dan penguasaan teknologi informasi, meningkatkan sistem penyimpanan dan jaringan yang memadai, serta meningkatkan penguatan sistem dan teknologi  kearsipan agar pengelolaan arsip dapat terintegrasi dan berjalan dengan baik. 
+
+# **BAB III** **PENUTUP**
+## 3.1 kesimpulan ##
+
+
+# **DAFTAR** **PUSTAKA** 
+
+Haqqi, F., Ghozal, M. S., & Fitriani, A. S. (n.d.). JENIS-JENIS ANCAMAN SIBER DAN PENERAPAN CYBER SECURITY.
+
+Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024). Keamanan Informasi dan Privasi Pengguna dalam Layanan Perpustakaan Digital. Media Pustakawan, 31(3), 266–276. https://doi.org/10.37014/medpus.v31i3.5317
+
+Salmi Addin, H., Anggraini, H., Nur Riya Putri Yenti, H., Wandan Sari, F., & Hidayat, I. (2024). Strategi Pengembangan Koleksi Perpustakaan Digital. Media Informasi, 33(1), 88–95. https://doi.org/10.22146/mi.v33i1.11481
+
+Wulandari, D. S. & Ismaya. (2023). Pengelolaan Arsip Elektronik di Era Digital. IKOMIK: Jurnal Ilmu Komunikasi dan Informasi, 3(2), 39–43. https://doi.org/10.33830/ikomik.v3i2.5252
+
+
 
 
 
